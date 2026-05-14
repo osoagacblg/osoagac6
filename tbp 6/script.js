@@ -1,7 +1,7 @@
 const agaclar = [
     {
-        ad: "Karpuz Ağacı",
-        bilgi: "2014 yılında dikildi. Ortalama boyu 6 metredir.",
+        ad: "Çınar (Platanus)",
+        bilgi: "10-15 yaş aralığındadır.El ayasına benzeyen, genellikle 5-7 loblu ve geniş yapraklara sahiptir. Bahar aylarında parlak yeşil bir renktedir.Çınarların en belirgin özelliklerinden biri, yaşlandıkça gövde kabuklarının levhalar halinde dökülerek alacalı (mozaik gibi) bir görünüm kazanmasıdır. Bu ağaç henüz genç olduğu için kabuk yapısı daha düzgündür.Çok hızlı büyüyen ve çok geniş bir tepe tacı oluşturabilen bir ağaçtır. Bu özelliği nedeniyle tarih boyunca şehir meydanlarında gölge ağacı olarak dikilmiştir.Kirli havaya ve zorlu şehir koşullarına son derece dayanıklıdır.",
         resim: "images/agac6.jpg"
     },
 ];
